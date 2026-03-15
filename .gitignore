@@ -1,0 +1,23 @@
+# Public dokümantasyon reposu için whitelist stratejisi
+# Varsayılan: her şeyi yok say
+*
+
+# Klasör geçişi için gerekli istisnalar
+!docs/
+!assets/
+!assets/images/
+
+# Her zaman versiyon kontrolüne girsin
+!.gitignore
+!README.md
+!index.html
+!CNAME
+!oaposicon.jpg
+
+# Paylaşılacak kılavuzlar
+!docs/kullanim_kilavuzu.md
+!docs/cloud_backup_plan.md
+
+# GitHub Pages ve tanıtım görselleri
+!assets/images/TOS_GOAT_LOGO.svg
+!assets/images/app_icon.jpg
