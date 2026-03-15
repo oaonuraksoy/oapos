@@ -1,4 +1,4 @@
-# oaPOS
+# oaPOS - Satış, Stok ve Rapor Programı
 
 Hızlı, sade ve güvenilir masaüstü kasa çözümü.
 Küçük ve orta ölçekli işletmeler için satış, stok ve raporlama akışını tek ekranda yönetmek üzere tasarlanmıştır.
