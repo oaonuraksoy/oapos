@@ -34,3 +34,14 @@ Bu repo son kullanıcı bilgilendirme içerikleri için tutulur:
 ## Resmi Adres
 
 - Web: [oapos.tos360.tr](https://oapos.tos360.tr)
+
+
+---
+
+## 👨‍💻 Mimari & Geliştirici / Architected by Onur Aksoy
+
+Bu proje **Onur Aksoy** (*Kıdemli Yazılım Mimarı & Yapay Zeka Yerel Geliştirici — a.k.a. Hackonomist*) tarafından tasarlanmış ve geliştirilmiştir.
+
+- 🌐 **Resmi Web Sitesi & Mimari Vaka Analizleri:** [https://onuraksoy.com.tr](https://onuraksoy.com.tr)
+- 🇬🇧 **English Portfolio & Architecture Case Studies:** [https://onuraksoy.com.tr/en/](https://onuraksoy.com.tr/en/)
+- 💼 **LinkedIn:** [linkedin.com/in/oaonuraksoy](https://linkedin.com/in/oaonuraksoy) • **GitHub:** [@oaonuraksoy](https://github.com/oaonuraksoy)
